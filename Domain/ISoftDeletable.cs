@@ -2,7 +2,7 @@
 
 namespace Domain
 {
-	public interface IDeletable
+	public interface ISoftDeletable
 	{
 		bool IsDeleted { get; set; }
 		DateTimeOffset DeletedOn { get; }
