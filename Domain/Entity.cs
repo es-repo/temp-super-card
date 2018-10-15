@@ -1,4 +1,4 @@
-﻿namespace Domain
+﻿namespace SuperCard.Domain
 {
 	public abstract class Entity : IEntity
 	{
