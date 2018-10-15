@@ -8,7 +8,7 @@ namespace Domain
 
 		public string CreatedBy { get; set; }
 
-		public DateTimeOffset UpdatedOn { get; set; }
+		public DateTimeOffset? UpdatedOn { get; set; }
 
 		public string UpdatedBy { get; set; }
 	}

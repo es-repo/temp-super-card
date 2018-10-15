@@ -4,8 +4,8 @@ namespace Domain
 {
 	public interface ISoftDeletable
 	{
-		bool IsDeleted { get; set; }
-		DateTimeOffset DeletedOn { get; }
+		bool IsDeleted { get; }
+		DateTimeOffset? DeletedOn { get; }
 		string DeletedBy { get; }
 	}
 }

@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>SuperCard.Utils</AssemblyName>
+    <RootNamespace>SuperCard.Utils</RootNamespace>
   </PropertyGroup>
 
 </Project>
