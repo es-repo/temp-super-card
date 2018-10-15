@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>SuperCard.DataAccess</AssemblyName>
+    <RootNamespace>SuperCard.DataAccess</RootNamespace>
   </PropertyGroup>
 
 </Project>
